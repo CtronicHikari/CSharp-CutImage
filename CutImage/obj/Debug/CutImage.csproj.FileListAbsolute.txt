@@ -1,0 +1,10 @@
+C:\WorkSpace\Unity_pro\CutImage\CutImage\bin\Debug\CutImage.exe.config
+C:\WorkSpace\Unity_pro\CutImage\CutImage\bin\Debug\CutImage.exe
+C:\WorkSpace\Unity_pro\CutImage\CutImage\bin\Debug\CutImage.pdb
+C:\WorkSpace\Unity_pro\CutImage\CutImage\obj\Debug\CutImage.csprojAssemblyReference.cache
+C:\WorkSpace\Unity_pro\CutImage\CutImage\obj\Debug\CutImage.Background.resources
+C:\WorkSpace\Unity_pro\CutImage\CutImage\obj\Debug\CutImage.Properties.Resources.resources
+C:\WorkSpace\Unity_pro\CutImage\CutImage\obj\Debug\CutImage.csproj.GenerateResource.cache
+C:\WorkSpace\Unity_pro\CutImage\CutImage\obj\Debug\CutImage.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Unity_pro\CutImage\CutImage\obj\Debug\CutImage.exe
+C:\WorkSpace\Unity_pro\CutImage\CutImage\obj\Debug\CutImage.pdb
